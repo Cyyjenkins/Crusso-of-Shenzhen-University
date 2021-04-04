@@ -12,9 +12,9 @@ A mini game designed on LabVIEW system
 
 
 ## 深大漂流记
-![sdplj_main](https://github.com/Cyyjenkins/Crusso-of-Shenzhen-University/blob/main/%E6%B7%B1%E5%A4%A7%E6%BC%82%E6%B5%81%E8%AE%B0(version%201)/pics/main_interface.jpg)
+![sdplj_main](https://github.com/Cyyjenkins/Crusso-of-Shenzhen-University/blob/main/%E6%B7%B1%E5%A4%A7%E6%BC%82%E6%B5%81%E8%AE%B0(version%201)/pics/main_interface.jpg){:height="70%" width="70%"}
 
 
 ## 颖洁的新生日志
-![yjdxsrz_main](https://github.com/Cyyjenkins/Crusso-of-Shenzhen-University/blob/main/%E9%A2%96%E6%B4%81%E7%9A%84%E6%96%B0%E7%94%9F%E6%97%A5%E5%BF%97(version%202)/pics/main_interface.png)
+![yjdxsrz_main](https://github.com/Cyyjenkins/Crusso-of-Shenzhen-University/blob/main/%E9%A2%96%E6%B4%81%E7%9A%84%E6%96%B0%E7%94%9F%E6%97%A5%E5%BF%97(version%202)/pics/main_interface.png){:height="50%" width="50%"}
 
